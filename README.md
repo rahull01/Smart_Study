@@ -1,4 +1,4 @@
-# 🚀 SmartStudyBuddy
+# 🚀 Smart_Study
 
 **SmartStudyBuddy** is a modern Java-based desktop application that integrates **Data Structures & Algorithms (DSA)** visualization with **ChatGPT-powered concept explanation**, interactive quizzes, and a user-friendly interface for students to learn better and faster.
 
